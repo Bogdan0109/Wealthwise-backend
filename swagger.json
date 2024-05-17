@@ -13,7 +13,7 @@
   "produces": ["application/json"],
   "servers": [
     {
-      "url": "https://easy-start-wallet-back.onrender.com"
+      "url": "https://wealthwise-backend.onrender.com"
     }
   ],
   "tags": [
